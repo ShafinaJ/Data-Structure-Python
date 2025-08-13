@@ -1,0 +1,4 @@
+dit={'1':'ab','2':'cd'}
+for i in dit['1']:
+    for j in dit['2']:
+        print(i+j)
