@@ -74,3 +74,4 @@ heap.display()
 heap.delete(heap.peek())
 print("Heap after deleting root (min element):")
 heap.display() 
+
